@@ -57,6 +57,7 @@ The Aurora mark on a Night rounded square.
 | `social/northlight-github-avatar.png` | GitHub organization avatar: Aurora on Night (1024 px) |
 | `social/northlight-github-avatar-aurora.png` | Alternative avatar: Night on Aurora |
 | `social/northlight-og-1200x630.png` | Link preview image for the website and repos |
+| `social/northlight-banner-1280x320.png` | Banner for the organization profile |
 
 ## 🎨 Color
 
