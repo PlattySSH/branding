@@ -1,0 +1,19 @@
+:root {
+  --nl-aurora: #3BD39A;
+  --nl-aurora-strong: #0F7A52;
+  --nl-aurora-soft: #C9F3E0;
+  --nl-glacier: #6CB6F0;
+
+  --nl-night: #08130F;
+  --nl-graphite: #111E19;
+  --nl-slate: #1C2B25;
+  --nl-mist: #8FA39A;
+  --nl-stone: #5B6F66;
+  --nl-haze: #DCE6E0;
+  --nl-paper: #F4F8F5;
+  --nl-white: #FFFFFF;
+  --nl-ink: #0B1A14;
+
+  --nl-font-sans: "Geist", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --nl-font-mono: "Geist Mono", ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
