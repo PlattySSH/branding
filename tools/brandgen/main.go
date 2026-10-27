@@ -416,5 +416,11 @@ func main() {
 	place(og, lg, (1200-lw)/2, (630-lh)/2, lh)
 	writePNG("social/northlight-og-1200x630.png", og)
 
+	bn := canvas(1280, 320, night)
+	bh := 72.0
+	bw := lg.w * bh / lg.h
+	place(bn, lg, (1280-bw)/2, (320-bh)/2, bh)
+	writePNG("social/northlight-banner-1280x320.png", bn)
+
 	fmt.Printf("cap=%.4f\n", t.cap)
 }
